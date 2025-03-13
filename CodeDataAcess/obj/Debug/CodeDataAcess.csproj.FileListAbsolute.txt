@@ -1,0 +1,12 @@
+C:\Users\ilimo\ProjectsInWinForms\CodeDataAcess\bin\Debug\CodeDataAcess.dll
+C:\Users\ilimo\ProjectsInWinForms\CodeDataAcess\bin\Debug\CodeDataAcess.pdb
+C:\Users\ilimo\ProjectsInWinForms\CodeDataAcess\obj\Debug\CodeDataAcess.csproj.AssemblyReference.cache
+C:\Users\ilimo\ProjectsInWinForms\CodeDataAcess\obj\Debug\CodeDataAcess.csproj.CoreCompileInputs.cache
+C:\Users\ilimo\ProjectsInWinForms\CodeDataAcess\obj\Debug\CodeDataAcess.dll
+C:\Users\ilimo\ProjectsInWinForms\CodeDataAcess\obj\Debug\CodeDataAcess.pdb
+C:\Users\ilimo\MyProjects\CodeGeneratorProject\CodeDataAcess\bin\Debug\CodeDataAcess.dll
+C:\Users\ilimo\MyProjects\CodeGeneratorProject\CodeDataAcess\bin\Debug\CodeDataAcess.pdb
+C:\Users\ilimo\MyProjects\CodeGeneratorProject\CodeDataAcess\obj\Debug\CodeDataAcess.csproj.AssemblyReference.cache
+C:\Users\ilimo\MyProjects\CodeGeneratorProject\CodeDataAcess\obj\Debug\CodeDataAcess.csproj.CoreCompileInputs.cache
+C:\Users\ilimo\MyProjects\CodeGeneratorProject\CodeDataAcess\obj\Debug\CodeDataAcess.dll
+C:\Users\ilimo\MyProjects\CodeGeneratorProject\CodeDataAcess\obj\Debug\CodeDataAcess.pdb
